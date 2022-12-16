@@ -3,7 +3,7 @@
 
 ## Getting started with Posit Cloud
 
-
+Click [here](https://github.com/sudhir-voleti/NASMEI_GLM/blob/9f733aea8625462213a6718940ea4f6d3cef0591/Introduction%20to%20Posit.pdf) to learn how to start with [Posit Cloud](https://posit.cloud/)
 
 
 ## Runcodes for the applications
