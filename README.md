@@ -10,9 +10,10 @@
 
 ### Basic Text Analytics
 
-`source('')`
+`source('https://raw.githubusercontent.com/sudhir-voleti/NASMEI_GLM/main/NLP/BasicText/dependency-basic-text-analysis-shinyapp.R')`
 
 `runGitHub("NASMEI_GLM","sudhir-voleti", subdir = "NLP/BasicText/")`
+
 
 
 ### Sentiment Analysis
