@@ -18,7 +18,7 @@
 
 ### Sentiment Analysis
 
-`source('')`
+`source('https://raw.githubusercontent.com/sudhir-voleti/NASMEI_GLM/main/NLP/Sentiment/dependency-tidy-sentiment-analysis.R')`
 
 `runGitHub("NASMEI_GLM","sudhir-voleti", subdir = "NLP/Sentiment/")`
 
